@@ -59,3 +59,4 @@ python inference.py --filepath pointcloud_file --weights_path checkpoint
   <p> Plot of Validation Loss </p>
 </div>
 
+## Inference Result on sample data
