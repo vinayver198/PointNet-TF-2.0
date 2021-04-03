@@ -18,3 +18,20 @@ I have included pointnet_env.yml which will allow you to create required environ
 conda env create -f pointnet_env.yml
 ```
 ## Training the model
+```
+python train.py
+```
+
+You can check the available parameters to modify using
+
+```
+python train.py --help
+```
+
+## To visualize the prediction on trained model 
+
+```
+python inference.py --filepath pointcloud_file --weights_path checkpoint 
+```
+
+## Sample results and graphs
