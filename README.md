@@ -1,5 +1,5 @@
 # PointNet-TF-2.0
-### This project is imeplementation of [PointNet](https://arxiv.org/abs/1612.00593) in tensorflow 2.0. The motivation behind this project is to understand the architecture and its validation on [ModelNet](https://modelnet.cs.princeton.edu/) dataset . 
+### This project is implementation of [PointNet](https://arxiv.org/abs/1612.00593) in tensorflow 2.0. The motivation behind this project is to understand the architecture and its validation on [ModelNet](https://modelnet.cs.princeton.edu/) dataset . 
 
 # Getting Started 
 Clone the github repository and follow the steps below 
