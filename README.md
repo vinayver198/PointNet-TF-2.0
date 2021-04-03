@@ -34,7 +34,7 @@ python train.py --help
 python inference.py --filepath pointcloud_file --weights_path checkpoint 
 ```
 
-## Sample results and graphs
+## Training graphs
 
 <div align="center">
   <p> <img src="./docs/training_accuracy .svg"> </p>
