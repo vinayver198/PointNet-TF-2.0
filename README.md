@@ -37,7 +37,25 @@ python inference.py --filepath pointcloud_file --weights_path checkpoint
 ## Sample results and graphs
 
 <div align="center">
-  <p> <img src="training_accuracy .svg"> </p>
+  <p> <img src="training_accuracy.svg"> </p>
   <p> Plot of Training Accuracy </p>
 </div>
- 
+
+
+<div align="center">
+  <p> <img src="training_loss.svg"> </p>
+  <p> Plot of Training Loss </p>
+</div>
+
+
+<div align="center">
+  <p> <img src="validation_accuracy.svg"> </p>
+  <p> Plot of Validation Accuracy </p>
+</div>
+
+
+<div align="center">
+  <p> <img src="validation_loss.svg"> </p>
+  <p> Plot of Validation Loss </p>
+</div>
+
