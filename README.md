@@ -43,13 +43,13 @@ python inference.py --filepath pointcloud_file --weights_path checkpoint
 
 
 <div align="center">
-  <p> <img src="training_loss .svg"> </p>
+  <p> <img src="training_loss.svg"> </p>
   <p> Plot of Training Loss </p>
 </div>
 
 
 <div align="center">
-  <p> <img src="validation_accuracy.svg"> </p>
+  <p> <img src="validation_accuracy .svg"> </p>
   <p> Plot of Validation Accuracy </p>
 </div>
 
